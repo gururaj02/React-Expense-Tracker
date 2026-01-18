@@ -3,14 +3,12 @@
 This project is a **React Expense Tracker application** built using modern React concepts like **React Hooks** and **Styled Components**.  
 It allows users to manage their income and expenses efficiently.
 
----
 
 ## 🚀 Live Demo
 
 👉 **Application URL:**  
 https://gururaj02.github.io/React-Expense-Tracker/
 
----
 
 ## 🛠️ Technologies Used
 
@@ -22,7 +20,6 @@ https://gururaj02.github.io/React-Expense-Tracker/
 - CSS3
 - GitHub Pages (Deployment)
 
----
 
 ## ✨ Features
 
@@ -32,7 +29,6 @@ https://gururaj02.github.io/React-Expense-Tracker/
 - Modular and reusable components
 - Responsive user interface
 
----
 
 ## Available Scripts
 
@@ -46,14 +42,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.  
 You may also see lint errors in the console.
 
----
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.  
 See the section about running tests for more information.
 
----
 
 ### `npm run build`
 
@@ -63,7 +57,6 @@ It correctly bundles React in production mode and optimizes the build for best p
 The build is minified and the filenames include the hashes.  
 Your app is ready to be deployed!
 
----
 
 ### `npm run eject`
 
